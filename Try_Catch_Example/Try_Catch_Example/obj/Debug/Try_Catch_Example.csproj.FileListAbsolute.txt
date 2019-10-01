@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\obj\Debug\Try_Catch_Example.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\obj\Debug\Try_Catch_Example.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\bin\Debug\Try_Catch_Example.exe.config
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\bin\Debug\Try_Catch_Example.exe
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\bin\Debug\Try_Catch_Example.pdb
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\obj\Debug\Try_Catch_Example.exe
+D:\DEV\C#\Practice\Try_Catch_Example\Try_Catch_Example\obj\Debug\Try_Catch_Example.pdb
